@@ -89,6 +89,7 @@ ios:arm64 {
 !ios {
 LIBS += -L$$WALLET_ROOT/lib \
         -lwallet_merged \
+        -ldl \
         -lepee \
         -lunbound \
         -leasylogging
@@ -243,7 +244,8 @@ linux {
     if(!android) {
         LIBS+= \
             -Wl,-Bdynamic \
-            -lGL
+            -lGL \
+            -ldl
     }
     # currently stellite has an issue with "static" build and linunwind-dev,
     # so we link libunwind-dev only for non-Ubuntu distros
