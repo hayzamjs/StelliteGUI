@@ -1,0 +1,7 @@
+[submodule "stellite"]
+	path = stellite
+	url = https://github.com/stellitecoin/stellite
+	ignore = all
+[submodule "stellite"]
+	path = stellite
+	url = https://github.com/stellitecoin/stellite.git
