@@ -45,7 +45,7 @@ Rectangle {
     property bool showAdvanced: false
 
     function scaleValueToMixinCount(scaleValue) {
-        var scaleToMixinCount = [4,5,6,7,8,9,10,11,12,13,14,15,20,25];
+        var scaleToMixinCount = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15];
         if (scaleValue < scaleToMixinCount.length) {
             return scaleToMixinCount[scaleValue];
         } else {
@@ -203,10 +203,9 @@ Rectangle {
       ListModel {
            id: priorityModelV5
 
-           ListElement { column1: qsTr("Slow (x0.25 fee)") ; column2: ""; priority: 1}
-           ListElement { column1: qsTr("Default (x1 fee)") ; column2: ""; priority: 2 }
-           ListElement { column1: qsTr("Fast (x5 fee)") ; column2: ""; priority: 3 }
-           ListElement { column1: qsTr("Fastest (x41.5 fee)")  ; column2: "";  priority: 4 }
+           ListElement { column1: qsTr("Slow (x1 fee)") ; column2: ""; priority: PendingTransaction.Priority_Low}
+           ListElement { column1: qsTr("Default (x20 fee)") ; column2: ""; priority: PendingTransaction.Priority_Medium }
+           ListElement { column1: qsTr("Fast (x166 fee)") ; column2: ""; priority: PendingTransaction.Priority_High }
 
        }
 
