@@ -203,9 +203,9 @@ Rectangle {
       ListModel {
            id: priorityModelV5
 
-           ListElement { column1: qsTr("Slow (x1 fee)") ; column2: ""; priority: PendingTransaction.Priority_Low}
-           ListElement { column1: qsTr("Default (x20 fee)") ; column2: ""; priority: PendingTransaction.Priority_Medium }
-           ListElement { column1: qsTr("Fast (x166 fee)") ; column2: ""; priority: PendingTransaction.Priority_High }
+           ListElement { column1: qsTr("Slow (Low fee)") ; column2: ""; priority: PendingTransaction.Priority_Low}
+           ListElement { column1: qsTr("Default (Normal fee)") ; column2: ""; priority: PendingTransaction.Priority_Medium }
+           ListElement { column1: qsTr("Fast (High fee)") ; column2: ""; priority: PendingTransaction.Priority_High }
 
        }
 
