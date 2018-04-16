@@ -47,7 +47,7 @@ Window {
         id: rect
         width: content.width + 12
         height: content.height + 17
-        color: "#FF6C3C"
+        color: "#7a5fcb"
         //radius: 3
 
         Image {

@@ -278,7 +278,7 @@ Rectangle {
                 anchors.right: parent.right
                 text: qsTr("Send") + translationManager.emptyString
                 symbol: qsTr("S") + translationManager.emptyString
-                dotColor: "#FF6C3C"
+                dotColor: "#7a5fcb"
                 onClicked: {
                     parent.previousButton.checked = false
                     parent.previousButton = transferButton
