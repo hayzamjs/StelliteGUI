@@ -1740,7 +1740,7 @@ Ringgrootte: </translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="366"/>
-        <source>USE MONERO</source>
+        <source>USE STELLITE</source>
         <translation>GEBRUIK MONERO</translation>
     </message>
     <message>

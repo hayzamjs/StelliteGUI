@@ -1741,7 +1741,7 @@ Uppgradera eller anslut till en annan nod</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="366"/>
-        <source>USE MONERO</source>
+        <source>USE STELLITE</source>
         <translation>ANVÄND MONERO</translation>
     </message>
     <message>

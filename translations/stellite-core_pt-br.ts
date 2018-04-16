@@ -1738,7 +1738,7 @@ Por favor atualize ou conecte outro daemon</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="366"/>
-        <source>USE MONERO</source>
+        <source>USE STELLITE</source>
         <translation>USAR O MONERO</translation>
     </message>
     <message>
