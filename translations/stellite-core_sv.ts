@@ -1742,7 +1742,7 @@ Uppgradera eller anslut till en annan nod</translation>
     <message>
         <location filename="../wizard/WizardMain.qml" line="366"/>
         <source>USE STELLITE</source>
-        <translation>ANVÄND MONERO</translation>
+        <translation>ANVÄND STELLITE</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="184"/>

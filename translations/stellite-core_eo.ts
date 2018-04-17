@@ -1732,7 +1732,7 @@ Bonvolu plibonigi aŭ konekti al alia demono</translation>
     <message>
         <location filename="../wizard/WizardMain.qml" line="366"/>
         <source>USE STELLITE</source>
-        <translation>UZU MONERON</translation>
+        <translation>UZU STELLITEN</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="383"/>

@@ -1734,7 +1734,7 @@ Please upgrade or connect to another daemon</source>
     <message>
         <location filename="../wizard/WizardMain.qml" line="366"/>
         <source>USE STELLITE</source>
-        <translation>KÄYTÄ MONEROA</translation>
+        <translation>KÄYTÄ STELLITEA</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="383"/>

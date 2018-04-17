@@ -1741,7 +1741,7 @@ Ringgrootte: </translation>
     <message>
         <location filename="../wizard/WizardMain.qml" line="366"/>
         <source>USE STELLITE</source>
-        <translation>GEBRUIK MONERO</translation>
+        <translation>GEBRUIK STELLITE</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="383"/>

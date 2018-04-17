@@ -1739,7 +1739,7 @@ Por favor atualize ou conecte outro daemon</translation>
     <message>
         <location filename="../wizard/WizardMain.qml" line="366"/>
         <source>USE STELLITE</source>
-        <translation>USAR O MONERO</translation>
+        <translation>USAR O STELLITE</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="383"/>

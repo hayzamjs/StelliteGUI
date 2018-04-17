@@ -1739,7 +1739,7 @@ Veuillez mettre à jour ou vous connecter à un autre démon</translation>
     <message>
         <location filename="../wizard/WizardMain.qml" line="366"/>
         <source>USE STELLITE</source>
-        <translation>UTILISER MONERO</translation>
+        <translation>UTILISER STELLITE</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="383"/>

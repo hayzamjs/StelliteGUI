@@ -1733,7 +1733,7 @@ Ringsize: </source>
     <message>
         <location filename="../wizard/WizardMain.qml" line="366"/>
         <source>USE STELLITE</source>
-        <translation>UŻYJ MONERO</translation>
+        <translation>UŻYJ STELLITE</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="383"/>

@@ -1731,7 +1731,7 @@ Please upgrade or connect to another daemon</source>
     <message>
         <location filename="../wizard/WizardMain.qml" line="366"/>
         <source>USE STELLITE</source>
-        <translation>MONERO प्रयोग करें</translation>
+        <translation>STELLITE प्रयोग करें</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="383"/>
